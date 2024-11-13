@@ -17,7 +17,7 @@ const styles = {
 
   paddingFooterY: "sm: pt-16 pt-6 sm:pb-10 pb-4",
 
-  padding: "sm:px-16 px-6 sm:py-12 py-4",
+  padding: "md:px-16 px-6 md:py-12 py-4",
 
   marginX: "sm:mx-16 mx-6",
 
